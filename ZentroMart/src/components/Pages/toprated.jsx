@@ -19,11 +19,11 @@ const topRatedProducts = [
   },
   {
     id: 3,
-    name: "Kids Playset",
+    name: "Kids Shirts",
     rating: 4.6,
     price: 1899,
     category: "Kids Wear",
-    image: "/images/kids_playset.jpg"
+    image: "src/assets/images/kidsplayset.jpg"
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ const topRatedProducts = [
     rating: 4.9,
     price: 2599,
     category: "Electronics",
-    image: "/images/headphones.jpg"
+    image: "src/assets/images/BluetoothHeadphones.jpg"
   },
   {
     id: 5,
@@ -39,7 +39,7 @@ const topRatedProducts = [
     rating: 4.5,
     price: 1499,
     category: "Kids Wear",
-    image: "/images/kids_dress.jpg"
+    image: "src/assets/images/CottonSummerDress.jpg"
   },
   {
     id: 6,
@@ -47,7 +47,7 @@ const topRatedProducts = [
     rating: 4.8,
     price: 3499,
     category: "Mens Wear",
-    image: "/images/mens_shoes.jpg"
+    image: "src/assets/images/Men'sRunningShoes.webp"
   },
   {
     id: 7,
@@ -55,7 +55,7 @@ const topRatedProducts = [
     rating: 4.7,
     price: 37999,
     category: "Electronics",
-    image: "/images/smart_tv.jpg"
+    image: "src/assets/images/Smart'LEDTV50.jpg"
   },
   {
     id: 8,
@@ -63,7 +63,7 @@ const topRatedProducts = [
     rating: 4.4,
     price: 899,
     category: "Kids Wear",
-    image: "/images/boys_shirt.jpg"
+    image: "src/assets/images/BoysCasualShirt.jpg"
   },
   {
     id: 9,
@@ -71,7 +71,7 @@ const topRatedProducts = [
     rating: 4.6,
     price: 5999,
     category: "Mens Wear",
-    image: "/images/blazer.jpg"
+    image: "src/assets/images/FormalBlazer.jpg"
   },
   {
     id: 10,
@@ -79,7 +79,7 @@ const topRatedProducts = [
     rating: 4.9,
     price: 7999,
     category: "Electronics",
-    image: "/images/smartwatch.jpg"
+    image: "src/assets/images/SmartwatchPro.jpg"
   }
 ];
 
