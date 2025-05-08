@@ -50,11 +50,10 @@ const Footer = () => {
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-1">
               <FiShoppingBag size="30" />
               {/* <img src={footerLogo} alt="" className="max-w-[50px]" /> */}
-              ShopMe
+              ZentroMart
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+            Your one-stop destination for everyday essentials and exclusive finds.
             </p>
           </div>
 
