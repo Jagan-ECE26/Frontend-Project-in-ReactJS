@@ -13,6 +13,7 @@ import Footer from "./components/Footer/Footer";
 import Popup from "./components/Popup/Popup";
 import TopRated from "./components/Pages/toprated";
 import Kidswear from "./components/Pages/kidswear";
+import Menswear from "./components/Pages/MensWear";
 
 const App = () => {
   const [orderPopup, setOrderPopup] = React.useState(false);
@@ -52,7 +53,7 @@ const App = () => {
   />
 
   {/* Category-Based Product Routes */}
-  <Route path="/menswear" element={<Products />} />
+  <Route path="/menswear" element={<Menswear />} />
   <Route path="/womenswear" element={<Products />} />
   <Route path="/electronics" element={<Products />} />
   <Route path="/toprated" element={<TopRated/>} />
